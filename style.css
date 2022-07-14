@@ -20,6 +20,7 @@ body{
     display: flex;
     justify-content: center;
     margin-top: 80px;
+    transition: .3s;
 }
 
 .conteiner1,.conteiner2,.conteiner3{
